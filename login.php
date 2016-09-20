@@ -1,10 +1,10 @@
 <?php
 
-	//var_dump($_GET);
+//var_dump($_GET);
 
-	//echo "<br>";
+//echo "<br>";
 
-	//var_dump($_POST);
+//var_dump($_POST);
 
 	$signupEmailError = "*";
 
@@ -36,7 +36,7 @@
 
 		} else {
 
-			//parrol ei olnud tyhi
+			//parool ei olnud tyhi
 
 			if( strlen($_POST["signupPassword"]) < 8 ) {
 
@@ -77,13 +77,15 @@
 
 	if (isset ($_POST["gender"])) {
 
-		if (empty ($_POST["gender"])) {
 
-			$genderError = "Valik on kohustuslik";
+		if (empty ($_POST["gender"])) {
+// Ei toimi nii nagu vaja! Help needed!
+			$genderError = "- Valik on kohustuslik";
 
 		}
 
-	}
+  }
+
 
 ?>
 
@@ -140,8 +142,8 @@
 
 			<br><br>
 
-			<label> Sugu</label> <?php echo $genderError; ?><br>
-			<input name="gender" type="radio" value="male"> Mees<br>
+			<label> Sugu</label> <?php echo $genderError; ?> <br>
+			<input name="gender" type="radio" value="male"> Mees <br>
 			<input name="gender" type="radio" value="female"> Naine<br>
 
 			<br><br>
