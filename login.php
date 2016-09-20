@@ -163,5 +163,16 @@
 
 		</form>
 
+<br><br><br>
+MVP Idee
+<br><br>
+Nn internetiraadio, mis mängib 24/7 igasugust muusikat. Otsene "kvaliteedikontroll"
+algselt (?) puuduks, mis võimaldaks ka vähetuntud ja muidu sahtlisse kirjutavatel artistidel
+oma loomingut esitleda. Sisuliselt oleks tegemist kohaga, kus noored/vanad/uued/tuntud artistid saaksid oma
+loomingut tasuta jagada ja kust entusiastlikumad melomaanid leiaksid potentsiaalselt uut ja põnevat muusikat.
+Raadio formaat garanteerib artistile, et tema teos mingil hetkel 24h tunni jooksul kindlasti mängib.
+Puuduks DJ - selle asemel on random playlist, mille infot (kes mängib millal jne)saaks näha netist/appist vms.
+Mõned mõtted on veel, aga neid veel ei avalada :).
+
 	</body>
 </html>
