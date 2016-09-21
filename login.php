@@ -172,7 +172,7 @@ oma loomingut esitleda. Sisuliselt oleks tegemist kohaga, kus noored/vanad/uued/
 loomingut tasuta jagada ja kust entusiastlikumad melomaanid leiaksid potentsiaalselt uut ja põnevat muusikat.
 Raadio formaat garanteerib artistile, et tema teos mingil hetkel 24h tunni jooksul kindlasti mängib.
 Puuduks DJ - selle asemel on random playlist, mille infot (kes mängib millal jne)saaks näha netist/appist vms.
-Mõned mõtted on veel, aga neid veel ei avalada :).
+Mõned mõtted on veel, aga neid veel ei avalda :).
 
 	</body>
 </html>
